@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "farmcart"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "farmcart-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
