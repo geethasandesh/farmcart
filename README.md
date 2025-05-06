@@ -103,3 +103,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Unsplash for product images
 - React Native, Expo, and Firebase communities for documentation and support
+## Scan to download the App
+<img src="https://github.com/user-attachments/assets/80f99ff9-7398-49e1-bebd-c4a395c9625f" alt="farmcart QR" width="200"/>
+
+
